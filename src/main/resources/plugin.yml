@@ -1,0 +1,6 @@
+name: MyFirstPlugin
+version: '${version}'
+main: io.github.hibixby.myfirstplugin.MyFirstPlugin
+api-version: 1.19
+authors: [ Hey_Siri_ ]
+description: My first plugin ever
